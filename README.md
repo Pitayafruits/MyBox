@@ -9,4 +9,5 @@
 [b03](https://github.com/Pitayafruits/MyWheel/blob/main/backend/POIUtils.java)：Apache POI工具类
 ## front->前端
 [f01](https://github.com/Pitayafruits/MyWheel/blob/main/front/http.js)：封装好的restful风格发送http请求的js
+[f02](https://github.com/Pitayafruits/MyWheel/blob/main/front/formatTime.md)：在element ui的表格中格式化时间
 # 持续更新.....
